@@ -15,7 +15,7 @@ Our program harnesses various AI technologies, each chosen for its specific capa
    - **Why GPT-4?**: GPT-4's advanced language understanding generates contextually relevant and strategic questions, providing interviewers with tailored queries based on the interviewee's background.
 
 <div align="center">
-   <img src=./README_img/gpt_example.png width="300">
+   <img src=./README_img/gpt_example.png width="100%" height="auto">
 </div>
 
 2. **Data Analysis During Interview**:
