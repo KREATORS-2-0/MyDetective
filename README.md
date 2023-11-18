@@ -1,5 +1,5 @@
 # MyDetective
-![MyDetective Logo]('./README_img/gpt_example.png')
+![MyDetective Logo](./README_img/gpt_example.png)
 
 ## Overview
 Welcome to MyDetective, an innovative project presented at natHacks 2023! Designed to revolutionize security interviews, such as suspect interrogations in police investigations, our program integrates advanced AI technologies to assist interviewers. This README provides a comprehensive overview of the program's flow, technology rationale, relevance, and our team's roles.
@@ -11,7 +11,7 @@ Our program harnesses various AI technologies, each chosen for its specific capa
    - Background information of the interviewee is inputted into OpenAI's GPT-4.
    - **Why GPT-4?**: GPT-4's advanced language understanding generates contextually relevant and strategic questions, providing interviewers with tailored queries based on the interviewee's background.
 
-![gpt_example]('./README_img/gpt_example.png')
+![gpt_example](./README_img/gpt_example.png)
 
 2. **Data Analysis During Interview**:
    - **Facial Expression Analysis with DeepFace API**: Analyzes interviewee's facial expressions to identify emotions.
