@@ -1,6 +1,8 @@
 # MyDetective
 
-<img src=./README_img/MyDetectiveLogo.png width="400" height="300">
+<div align="center">
+   <img src=./README_img/MyDetectiveLogo.png width="400">
+</div>
 
 ## Overview
 Welcome to MyDetective, an innovative project presented at natHacks 2023! Designed to revolutionize security interviews, such as suspect interrogations in police investigations, our program integrates advanced AI technologies to assist interviewers. This README provides a comprehensive overview of the program's flow, technology rationale, relevance, and our team's roles.
