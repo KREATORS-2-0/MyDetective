@@ -1,5 +1,9 @@
 # MyDetective
 
+<div align="center">
+   <img src=./README_img/MyDetectiveLogo.png width="300">
+</div>
+
 ## Overview
 Welcome to MyDetective, an innovative project presented at natHacks 2023! Designed to revolutionize security interviews, such as suspect interrogations in police investigations, our program integrates advanced AI technologies to assist interviewers. This README provides a comprehensive overview of the program's flow, technology rationale, relevance, and our team's roles.
 
@@ -10,9 +14,17 @@ Our program harnesses various AI technologies, each chosen for its specific capa
    - Background information of the interviewee is inputted into OpenAI's GPT-4.
    - **Why GPT-4?**: GPT-4's advanced language understanding generates contextually relevant and strategic questions, providing interviewers with tailored queries based on the interviewee's background.
 
+<div align="center">
+   <img src=./README_img/gpt_example.png width="100%" height="auto">
+</div>
+
 2. **Data Analysis During Interview**:
    - **Facial Expression Analysis with DeepFace API**: Analyzes interviewee's facial expressions to identify emotions.
-![DeepFace Example](https://raw.githubusercontent.com/serengil/deepface/master/icon/stock-2.jpg "DeepFace Example")
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/stock-2.jpg" width="100%" height="auto">
+</div>
+
    - **Speech Recognition and Analysis**: Google's speech recognition API transcribes responses. The `MoritzLaurer/DeBerta-v3-base-mnli-fever-anli` model classifies the speech into emotions.
    - **EEG Data Analysis**: A random forest model analyzes EEG data to determine whether the interviewee is lying or not. Brainflow library connects the EEG machine to the computer.
    - **Why These Technologies?**: They enable a comprehensive analysis of the interviewee's responses, capturing verbal, emotional, and physiological reactions to reveal nuances and discrepancies.
