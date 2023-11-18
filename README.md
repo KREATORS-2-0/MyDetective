@@ -12,6 +12,7 @@ Our program harnesses various AI technologies, each chosen for its specific capa
 
 2. **Data Analysis During Interview**:
    - **Facial Expression Analysis with DeepFace API**: Analyzes interviewee's facial expressions to identify emotions.
+![DeepFace Example](https://raw.githubusercontent.com/serengil/deepface/master/icon/stock-2.jpg "DeepFace Example")
    - **Speech Recognition and Analysis**: Google's speech recognition API transcribes responses. The `MoritzLaurer/DeBerta-v3-base-mnli-fever-anli` model classifies the speech into emotions.
    - **EEG Data Analysis**: A random forest model analyzes EEG data to determine whether the interviewee is lying or not. Brainflow library connects the EEG machine to the computer.
    - **Why These Technologies?**: They enable a comprehensive analysis of the interviewee's responses, capturing verbal, emotional, and physiological reactions to reveal nuances and discrepancies.
