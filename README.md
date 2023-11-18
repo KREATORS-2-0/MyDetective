@@ -1,7 +1,7 @@
 # MyDetective
 
 <div align="center">
-   <img src=./README_img/MyDetectiveLogo.png width="400">
+   <img src=./README_img/MyDetectiveLogo.png width="300">
 </div>
 
 ## Overview
@@ -14,7 +14,9 @@ Our program harnesses various AI technologies, each chosen for its specific capa
    - Background information of the interviewee is inputted into OpenAI's GPT-4.
    - **Why GPT-4?**: GPT-4's advanced language understanding generates contextually relevant and strategic questions, providing interviewers with tailored queries based on the interviewee's background.
 
-![gpt_example](./README_img/gpt_example.png)
+<div align="center">
+   <img src=./README_img/gpt_example.png width="300">
+</div>
 
 2. **Data Analysis During Interview**:
    - **Facial Expression Analysis with DeepFace API**: Analyzes interviewee's facial expressions to identify emotions.
