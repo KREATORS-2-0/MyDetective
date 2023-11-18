@@ -33,6 +33,10 @@ Our program harnesses various AI technologies, each chosen for its specific capa
    - Integrates transcription, emotional data from facial expressions, NLP analysis, and EEG data.
    - GPT-4 suggests the next question, dynamically adapting to the interviewee's state.
 
+<div align="center">
+   <img src=./README_img/gpt_example2.png width="100%" height="auto">
+</div>
+
 4. **Iterative Process**:
    - Repeats steps 2 and 3 for a thorough, adaptive interview.
 
