@@ -82,3 +82,11 @@ Our program harnesses various AI technologies, each chosen for its specific capa
 ---
 
 MyDetective is a testament to the power of AI in enhancing critical processes like security interviews. Our integration of advanced technologies aims to improve accuracy, efficiency, and depth in investigative interviews.
+
+## Approved by judges (Madeliene)
+Due to the issues with the github privacy setting, we are putting the links of invisible repositories underneath 
+Note that these repositories were not edited after deadline
+MyDetective-Server: https://github.com/KREATORS-2-0/MyDetective-Server
+MyDetective-Web: https://github.com/KREATORS-2-0/MyDetective-Web
+MyDetective-EEGStream: https://github.com/KREATORS-2-0/MyDetective-EEGStream
+MyDetective-EC2: https://github.com/KREATORS-2-0/MyDetective-EC2
