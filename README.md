@@ -27,6 +27,8 @@ Our program harnesses various AI technologies, each chosen for its specific capa
 
    - **Speech Recognition and Analysis**: Google's speech recognition API transcribes responses. The `MoritzLaurer/DeBerta-v3-base-mnli-fever-anli` model classifies the speech into emotions.
    - **EEG Data Analysis**: A random forest model analyzes EEG data to determine whether the interviewee is lying or not. Brainflow library connects the EEG machine to the computer.
+     <img width="1233" alt="Screenshot 2023-11-18 at 11 52 07 PM" src="https://github.com/KREATORS-2-0/MyDetective/assets/97474786/6f4e7897-ea79-4394-8566-674385724dd1">
+
    - **Why These Technologies?**: They enable a comprehensive analysis of the interviewee's responses, capturing verbal, emotional, and physiological reactions to reveal nuances and discrepancies.
 
 3. **Dynamic Questioning with GPT-4**:
