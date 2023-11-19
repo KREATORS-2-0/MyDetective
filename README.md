@@ -43,6 +43,9 @@ Our program harnesses various AI technologies, each chosen for its specific capa
 ## Significance of Multi-Dimensional Analysis
 - **Facial Expression Analysis**: Immediate emotional indicators providing insights into involuntary emotional responses.
 - **Speech Analysis (NLP Zero-Shot-Classification)**: Uncovers underlying emotions within the spoken content, offering a deeper understanding beyond literal words.
+<div align="center">
+   <img src=./README_img/zero-shot-classification.png width="100%" height="auto">
+</div>
 - **EEG Analysis**: Trained to classify if a person is lying, providing a direct assessment of truthfulness, a critical factor in security interviews.
 
 ## Relevance of the Project
