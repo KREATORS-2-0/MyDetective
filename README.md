@@ -54,6 +54,7 @@ Our program harnesses various AI technologies, each chosen for its specific capa
 <div align="center">
    <img width="100% height="auto" src="https://github.com/KREATORS-2-0/MyDetective/assets/97474786/d4584d52-a310-4a77-9ad2-d6581bce028a">
 </div>
+
 ## Relevance of the Project
 - **Accuracy**: Detecting lies or stress is vital in ascertaining truth in critical situations like criminal investigations.
 - **Efficiency**: Quickly identifying key emotional responses guides interviewers to focus on pertinent areas.
