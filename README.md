@@ -1,7 +1,7 @@
 # MyDetective
 
 <div align="center">
-   <img src=./README_img/MyDetectiveLogo.png width="300">
+   <img src="https://cdn.discordapp.com/attachments/1156344075134451816/1175586513954812054/DALLE_2023-11-16_15.33.53_-_Logo_design_for_MyDetective_app_integrating_EEG_device_and_interrogation_themes._The_logo_features_a_brainwave_pattern_symbolizing_EEG_intertwined.png?ex=656bc542&is=65595042&hm=d07321e02b1a8b9f4b5db06c801d4cdebbb35004b09985fc0296a2670de22ec6&" width="300">
 </div>
 
 ## Overview
