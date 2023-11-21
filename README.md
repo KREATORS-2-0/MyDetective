@@ -73,6 +73,7 @@ Our program harnesses various AI technologies, each chosen for its specific capa
 
 ## Team and Roles
 - **Joshua Tablan**: Hardware Specialist
+- **Min Joh**: Hardware Specialist
 - **Dohyun Kim**: Full Stack Developer
 - **Yongbin Kim**: Frontend Developer
 - **Minjae Jeong**: Backend Developer
